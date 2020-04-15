@@ -20,6 +20,5 @@ class Dog
     self.print_all.each do |dog|
       puts dog.name
       end
-      self.print_all
     end
 end
